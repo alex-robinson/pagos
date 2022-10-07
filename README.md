@@ -1,2 +1,2 @@
 # pagos
-An ice-sheet model 
+An ice-sheet model interface. 
